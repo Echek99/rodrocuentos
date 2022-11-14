@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rodrocuentos/static/css/main.bbfe295a.css",
-    "main.js": "/rodrocuentos/static/js/main.4d86265e.js",
+    "main.js": "/rodrocuentos/static/js/main.29380b88.js",
     "index.html": "/rodrocuentos/index.html",
     "main.bbfe295a.css.map": "/rodrocuentos/static/css/main.bbfe295a.css.map",
-    "main.4d86265e.js.map": "/rodrocuentos/static/js/main.4d86265e.js.map"
+    "main.29380b88.js.map": "/rodrocuentos/static/js/main.29380b88.js.map"
   },
   "entrypoints": [
     "static/css/main.bbfe295a.css",
-    "static/js/main.4d86265e.js"
+    "static/js/main.29380b88.js"
   ]
 }
